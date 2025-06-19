@@ -32,7 +32,9 @@ This repository contains my professional report and analysis of the **"It's a Tr
   - Final conclusion and recommendations
 
 ## 📁 Files
-Pcap file & Fully report 
+*unzip the zip file
+*Pcap file download link available in the txt file
+*open report and finding the answer and get full report
 
 ## 🧠 Learning Outcome
 
